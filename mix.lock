@@ -1,0 +1,9 @@
+[ "cowboy": {:git, "git://github.com/extend/cowboy.git", "9f33a20d9425daf7491836e73f503c206cc170be", []},
+  "cowlib": {:git, "git://github.com/extend/cowlib.git", "63298e8e160031a70efff86a1acde7e7db1fcda6", [{:ref, "0.4.0"}]},
+  "ecto": {:git, "git://github.com/elixir-lang/ecto.git", "a6f8fea0966193f5ddce42918969748c6caedef6", []},
+  "exjson": {:git, "git://github.com/guedes/exjson.git", "809c951b5644f1506fbe664f1c489f15eea94f47", []},
+  "plug": {:git, "git://github.com/elixir-lang/plug.git", "3ea4d6d2f64d1c0acce3281ad2f801255c610cfc", []},
+  "poolboy": {:git, "git://github.com/devinus/poolboy.git", "c2c939b51aba06790ca51fa78b14c254a6ea977d", []},
+  "postgrex": {:git, "git://github.com/ericmj/postgrex.git", "73778e19ce08877f4fe713329a3dbc99ca5e2056", []},
+  "ranch": {:git, "git://github.com/extend/ranch.git", "5df1f222f94e08abdcab7084f5e13027143cc222", [{:ref, "0.9.0"}]},
+  "weber": {:git, "git://github.com/0xAX/weber.git", "e4dbb54a79a95c8bda871918e11f09bb56b0cd03", []} ]
